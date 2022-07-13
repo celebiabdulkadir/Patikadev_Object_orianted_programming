@@ -1,3 +1,3 @@
 # Patikadev_Object_orianted_programming
-Ödev - Üniversite Yönetim Sistemi
+# Ödev - Üniversite Yönetim Sistemi
 [Patika.dev profilime buraya tıklayarak erişebilirsiniz!](https://app.patika.dev/kadircelebi)
